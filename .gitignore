@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/Problems/Hello, Kotlin/out/
+/Problems/Hello, Kotlin/out/production/classes/
+/Problems/Move the first N characters/out/
+/Problems/Move the first N characters/out/production/classes/
+/Problems/Number of occurrences/out/
+/Problems/Number of occurrences/out/production/classes/
+/Problems/String processor/out/
+/Problems/String processor/out/production/classes/

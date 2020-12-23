@@ -1,0 +1,9 @@
+type: hyperskill
+title: Kotlin Code Challenges
+language: English
+summary: All code challenges in Kotlin programming language that can’t be opened together
+  with currently selected JetBrains Academy project.
+programming_language: Kotlin
+content:
+- Problems
+mode: Study
