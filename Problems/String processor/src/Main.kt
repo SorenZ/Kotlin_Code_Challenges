@@ -3,6 +3,8 @@ import java.util.*
 fun main(args: Array<String>) {
     val scanner = Scanner(System.`in`)
 
+    for (i in 'z' downTo 'e' step 200) {}
+
     val line1 = scanner.nextLine()
     val op = scanner.nextLine()
     val line2 = scanner.nextLine()

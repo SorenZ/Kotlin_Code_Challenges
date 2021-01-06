@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems/Amount on account" />
+            <option value="$PROJECT_DIR$/Problems/City population" />
             <option value="$PROJECT_DIR$/Problems/Direction" />
             <option value="$PROJECT_DIR$/Problems/Hello, Kotlin" />
             <option value="$PROJECT_DIR$/Problems/Max values of integer types" />
@@ -23,6 +24,7 @@
             <option value="$PROJECT_DIR$/Problems/Shape" />
             <option value="$PROJECT_DIR$/Problems/Size, min and max" />
             <option value="$PROJECT_DIR$/Problems/String processor" />
+            <option value="$PROJECT_DIR$/Problems/Weather comparison" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
